@@ -1,0 +1,6 @@
+{
+  "name": "The Light Of Akwa Ibom",
+  "description": "The Light of Akwa Ibom community and empowerment offline app - Brighter We Shine! Culture, news, opportunities, and business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
